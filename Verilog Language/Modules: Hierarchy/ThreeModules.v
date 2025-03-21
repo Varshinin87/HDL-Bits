@@ -1,7 +1,3 @@
-// Description: This top-level module instantiates three 'my_dff' submodules to create a shift register.
-//              The module has a clock input 'clk', a data input 'd', and an output 'q'.
-//              The 'my_dff' instances are connected in series, with each output serving as the input to the next.
-
 module top_module ( 
     input clk,  // Clock input 'clk'
     input d,    // Data input 'd'
