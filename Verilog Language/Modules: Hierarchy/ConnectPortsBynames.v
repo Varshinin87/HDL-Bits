@@ -1,7 +1,3 @@
-// Description: This top-level module instantiates the submodule 'mod_a' named 'instance1'.
-//              The top module has four 1-bit inputs ('a', 'b', 'c', 'd') and two 1-bit outputs ('out1', 'out2').
-//              The inputs are connected to the inputs of the submodule 'mod_a', and the outputs are connected to the submodule's outputs.
-
 module top_module ( 
     input a,         // 1-bit input 'a' to the top module
     input b,         // 1-bit input 'b' to the top module
