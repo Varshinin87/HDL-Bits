@@ -1,6 +1,3 @@
-// Description: This top-level module instantiates the submodule 'mod_a' and connects the inputs 'a' and 'b' to 'mod_a',
-//              and the output from 'mod_a' is connected to the output 'out' of the top module.
-
 module top_module (
     input a,        // 1-bit input 'a' to the top module
     input b,        // 1-bit input 'b' to the top module
