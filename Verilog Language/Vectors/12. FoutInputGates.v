@@ -1,9 +1,3 @@
-// Description: This module performs bitwise AND, OR, and XOR operations on a 4-bit input 'in'.
-//              It produces three outputs:
-//              - 'out_and': Bitwise AND of all input bits.
-//              - 'out_or': Bitwise OR of all input bits.
-//              - 'out_xor': Bitwise XOR of all input bits.
-
 module top_module( 
     input [3:0] in,        // 4-bit input vector 'in'
     output out_and,        // Output for the AND operation on all bits of 'in'
