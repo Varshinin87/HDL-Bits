@@ -1,6 +1,3 @@
-// Module: 7458 chip implementation
-// Description: Implements a dual multi-input AND-OR logic gate as per the 7458 IC.
-
 module top_module ( 
     input p1a, p1b, p1c, p1d, p1e, p1f, // Inputs for first logic
     output p1y, // Output for first logic
