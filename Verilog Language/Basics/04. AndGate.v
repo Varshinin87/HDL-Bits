@@ -1,6 +1,3 @@
-// Description: This module implements a simple AND gate.
-//              The output is the logical AND of the two input signals.
-
 module top_module( 
     input a,  // First input
     input b,  // Second input
