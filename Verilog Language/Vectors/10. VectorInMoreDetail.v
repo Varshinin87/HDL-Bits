@@ -1,7 +1,3 @@
-`default_nettype none  // Disable implicit nets. Reduces some types of bugs.
-
-//Description: This Verilog code defines a module that takes a 16-bit input and splits it into two 8-bit outputs. 
-
 module top_module( 
     input wire [15:0] in,   // 16-bit input vector
     output wire [7:0] out_hi, // Upper 8 bits of the input
