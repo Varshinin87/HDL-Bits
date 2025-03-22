@@ -1,6 +1,3 @@
-// Description: This module implements a NOR gate.
-//              The output is the logical NOR of the two input signals.
-
 module top_module( 
     input a,  // First input
     input b,  // Second input
