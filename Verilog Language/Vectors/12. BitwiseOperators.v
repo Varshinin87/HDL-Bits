@@ -1,6 +1,3 @@
-// Description: This module demonstrates various bitwise and logical operations on two 3-bit input vectors 'a' and 'b'.
-//              It performs bitwise OR, logical OR, and NOT operations on the inputs.
-
 module top_module( 
     input [2:0] a,               // 3-bit input vector 'a'
     input [2:0] b,               // 3-bit input vector 'b'
