@@ -1,6 +1,3 @@
-// Description: This module implements a simple NOT gate (inverter).
-//              The output is the logical negation of the input.
-
 module top_module( 
     input in,  // Input signal
     output out // Output signal (inverted input)
