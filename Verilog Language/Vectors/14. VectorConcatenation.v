@@ -1,6 +1,3 @@
-// Description: This module concatenates portions of multiple 5-bit input vectors ('a', 'b', 'c', 'd', 'e', 'f')
-//              to create four 8-bit output vectors ('w', 'x', 'y', 'z').
-
 module top_module (
     input [4:0] a, b, c, d, e, f,        // 5-bit input vectors 'a', 'b', 'c', 'd', 'e', 'f'
     output [7:0] w, x, y, z              // 8-bit output vectors 'w', 'x', 'y', 'z'
