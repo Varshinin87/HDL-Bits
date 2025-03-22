@@ -1,5 +1,3 @@
-// Description: This module assigns input signals to corresponding output signals. 
-
 module top_module( 
     input a, b, c,   // Inputs: a, b, c
     output w, x, y, z // Outputs: w, x, y, z
