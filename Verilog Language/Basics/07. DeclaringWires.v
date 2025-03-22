@@ -1,9 +1,3 @@
-`default_nettype none  // Prevents implicit net declarations
-
-// Description: This module implements a logic circuit that performs
-//              a combination of AND and OR operations, and also provides 
-//              an inverted output.
-
 module top_module(
     input a,      // First input
     input b,      // Second input
