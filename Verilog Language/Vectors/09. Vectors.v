@@ -1,7 +1,3 @@
-// Description: This module demonstrates vector signal assignment in Verilog.
-//              It assigns individual bits of a 3-bit input vector to separate outputs
-//              and also directly passes the vector to another output.
-
 module top_module ( 
     input wire [2:0] vec,   // 3-bit input vector
     output wire [2:0] outv, // 3-bit output vector (copies 'vec')
