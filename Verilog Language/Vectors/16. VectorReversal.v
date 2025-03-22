@@ -1,5 +1,3 @@
-// Description: This module reverses the bits of an 8-bit input string 'in' and assigns the reversed bits to the output 'out'.
-
 module top_module( 
     input [7:0] in,      // 8-bit input string 'in'
     output [7:0] out     // 8-bit output string 'out' (reversed version of 'in')
