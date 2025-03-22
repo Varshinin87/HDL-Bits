@@ -1,6 +1,3 @@
-// Description: This module performs sign extension on an 8-bit input 'in' to generate a 32-bit output 'out'.
-//              The sign extension replicates the most significant bit of the input to fill the upper 25 bits of the output.
-
 module top_module (
     input [7:0] in,     // 8-bit input vector 'in'
     output [31:0] out   // 32-bit output vector 'out'
